@@ -8,6 +8,7 @@ public class removeDuplicates {
             }
         }
         return count;
+        
     }
 
     public static void main(String[] args) {
