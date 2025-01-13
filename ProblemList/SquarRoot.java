@@ -9,7 +9,6 @@ public static int floorStr(int n){
         if(mid<=n/mid){
             result=mid;
             start=mid+1;
-
         }
         else{
             end=mid-1;
