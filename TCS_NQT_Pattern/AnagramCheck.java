@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 
 public class AnagramCheck {
@@ -13,7 +12,6 @@ public class AnagramCheck {
        Arrays.sort(tArray);
 
        return Arrays.equals(sArray,tArray);
-
     }
     public static void main(String[] args) {
         String s="listen";
