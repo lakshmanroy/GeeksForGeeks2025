@@ -1,5 +1,8 @@
 public class LargestAndSecondLargest {
     public static void getLargest(int arr[]){
+        if(arr==null || arr.length<2){
+            return;
+        }
         int largest=Integer.MIN_VALUE;
         int secondLargest=Integer.MIN_VALUE;
 
