@@ -13,6 +13,7 @@ public class AnagramCheck {
 
        return Arrays.equals(sArray,tArray);
     }
+    
     public static void main(String[] args) {
         String s="listen";
         String t="silent";
