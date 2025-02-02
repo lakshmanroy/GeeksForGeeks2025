@@ -14,6 +14,7 @@ public class SubArraySum {
             }
         }
         System.out.print("No subArray");
+        
     }
     public static void main(String args[]){
         int[] arr = {1, 4, 20, 3, 10, 5};
