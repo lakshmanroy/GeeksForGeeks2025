@@ -31,6 +31,5 @@ public class SubArray {
         else{
             System.out.println("no sub Array:");
         }
-    }
-    
+    }   
 }
