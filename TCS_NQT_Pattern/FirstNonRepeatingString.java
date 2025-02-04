@@ -11,7 +11,7 @@ public class FirstNonRepeatingString {
             if(map.get(c)==1){
                 return c;
             }
-        }
+        } 
         return '\0';
     }
     public static void main(String args[]){
