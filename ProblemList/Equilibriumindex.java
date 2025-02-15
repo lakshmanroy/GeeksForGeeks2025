@@ -14,6 +14,7 @@ public class Equilibriumindex {
            leftSum+=nums[i];
         }
         return -1;
+        
     }
     public static void main(String[] args) {
         int nums[]={2,3,-1,8,4};
